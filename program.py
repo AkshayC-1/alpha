@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def homepage():
-    return "Hi there, how ya doin?"
+    return "<html><body>Hello World</body></html>"
 
 
 if __name__ == "__main__":
