@@ -1,5 +1,4 @@
 Flask==0.8
 cassandra-driver
 basicAuth
-base64
 logging
