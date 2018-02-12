@@ -1,1 +1,7 @@
 Flask==0.8
+cassandra-driver
+json
+basicAuth
+base64
+logging
+sys
