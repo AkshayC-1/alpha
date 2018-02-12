@@ -1,1 +1,1 @@
-web: python program.py
+web: python __main__.py
