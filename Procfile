@@ -1,1 +1,1 @@
-web: python Hospital_Management.py
+web: python Hospital_Management.zip
